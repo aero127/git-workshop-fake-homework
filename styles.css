@@ -1,0 +1,16 @@
+body{
+    background-color: ghostwhite;
+    font-family: "Berlin Sans FB", serif;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
